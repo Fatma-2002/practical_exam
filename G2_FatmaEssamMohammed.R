@@ -1,4 +1,4 @@
-pometry<-read.csv("G2_pometrypometry.csv")
+pometry<-read.csv("G2_anthropometry.csv")
 View(pometry)
 
 #1 rows have NA
